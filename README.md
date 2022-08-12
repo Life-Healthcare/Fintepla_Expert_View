@@ -1,4 +1,4 @@
-# Fintepla 2022 launch mailer.
+# Fintepla 2022 expert view.
 
 HTML email template for Fintepla.
 
