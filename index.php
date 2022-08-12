@@ -47,7 +47,7 @@
                       ">
                       INTENDED FOR HEALTHCARE PROFESSIONALS IN THE UK ONLY <br />
                       Prescribing information and adverse event reporting can be found
-                      <a href="https://www.zogenixresources.eu/UK-Fintepla-fenfluramine-Prescribing-Information.pdf" target="_blank" class="sub-copy" style="
+                      <a href="https://orbit-ucb.my.salesforce.com/sfc/p/G0000000hAUA/a/4A000000QD9g/FIjo2tM8.qnZT1t4B87h8J1roHGAQDV5t7lqcuazVDA" target="_blank" class="sub-copy" style="
                           font-size: 12px;
                           line-height: 18px;
                           color: #63585c;
@@ -171,7 +171,7 @@
                         text-align: center;
                         vertical-align: middle;
                       ">
-                      <a href="https://www.nice.org.uk/guidance/gid-ta10373/documents/html-content-3" target="_blank" class="register-btn" style="
+                      <a href="https://zogenix.wavecast.io/fintepla-2022/registration?utm_source=Digital&amp;utm_medium=Email&amp;utm_campaign=Register_interest" target="_blank" class="register-btn" style="
                           display: inline-block;
                           color: white;
                           background-color: #D23D56;
@@ -182,6 +182,7 @@
                           border-style: solid;
                           border-color: #D23D56;
                         ">CLICK HERE TO REGISTER FOR EITHER<br /> THE LONDON OR MANCHESTER MEETINGS</a>
+
                     </td>
                   </tr>
 
@@ -639,7 +640,7 @@
                         text-align: center;
                         vertical-align: middle;
                       ">
-                    <a href="https://www.nice.org.uk/guidance/gid-ta10373/documents/html-content-3" target="_blank" class="register-btn" style="
+                    <a href="https://zogenix.wavecast.io/fintepla-2022/registration?utm_source=Digital&amp;utm_medium=Email&amp;utm_campaign=Register_interest" target="_blank" class="register-btn" style="
                           display: inline-block;
                           color: white;
                           background-color: #D23D56;
@@ -709,7 +710,7 @@
                   <td style="padding: 0">
                     <p class="sub-copy" style="font-size: 12px; line-height: 18px; color: #63585c">
                       For any medical questions, please email
-                      <a href="mailto:medinfo.eu@zogenix.com" style="color: #66575c; text-decoration: none">medinfo.eu@zogenix.com</a>
+                      <a href="mailto:medinfo.eu@zogenix.com" style="color: #66575c;">medinfo.eu@zogenix.com</a>
                     </p>
                   </td>
                 </tr>
@@ -789,27 +790,6 @@
               </table>
             </td>
           </tr>
-
-
-          <tr>
-            <td class="narrow" style="
-                padding: 0;
-                padding-left: 20px;
-                padding-right: 20px;
-                padding-bottom: 15px;
-              ">
-              <p class="copy" style="
-                  font-size: 12px;
-                  line-height: 25px;
-                  color: #66575c;
-                ">
-                Fintepla<img src="https://storage.finervision.com/public/emailers/traingle.png" alt="triangle" />(fenfluramine) Prescribing information
-                <a style="color: #63585c;white-space: nowrap;" href="#" target="_blank">Please refer to the full Summary of Product Characteristics (SmPC) before prescribing.</a>
-              </p>
-            </td>
-          </tr>
-
-
 
           <tr>
             <td class="narrow" style="padding: 0; padding-left: 20px; padding-right: 20px">
