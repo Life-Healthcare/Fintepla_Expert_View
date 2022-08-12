@@ -91,7 +91,7 @@
                   /* background-color: #f5f2f7; */
                 ">
                 <tr>
-                  <td style="padding: 0">
+                  <td style="padding: 0 0 20px 0">
                     <table style="width: 100%; border-spacing: 0">
                       <tr style="background-color: #f5f2f7">
                         <td class="narrow" style="
@@ -199,7 +199,7 @@
               <p class="copy" style="
                   padding-bottom: 5px;
                   font-size: 12px;
-                  color: #66575c;
+                  color: #948A8D;
                 ">
                 *Fintepla is indicated for the treatment of seizures associated with Dravet syndrome as an add-on
                 therapy to other antiepileptic medicines for patients 2 years of age and older.<sup>1</sup>
@@ -207,7 +207,7 @@
               <p class="copy" style="
                   font-size: 12px;
                   line-height: 25px;
-                  color: #66575c;
+                  color: #948A8D;
                   text-align: center;
                 ">
                 These promotional meetings are funded and organised by Zogenix, a part of UCB.
@@ -803,7 +803,7 @@
                   line-height: 25px;
                   color: #66575c;
                 ">
-                Fintepla(fenfluramine) Prescribing information
+                Fintepla<img src="https://storage.finervision.com/public/emailers/traingle.png" alt="triangle" />(fenfluramine) Prescribing information
                 <a style="color: #63585c;white-space: nowrap;" href="#" target="_blank">Please refer to the full Summary of Product Characteristics (SmPC) before prescribing.</a>
               </p>
             </td>
